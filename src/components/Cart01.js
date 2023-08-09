@@ -10,7 +10,7 @@ export default function Cart01(){
     {state.user.name}
     <button 
     type="button"
-    onClick = {() => dispatch(consoleName())}
+    // onClick = {() => dispatch(consoleName())}
     >click</button>
   </p>
   <p>
